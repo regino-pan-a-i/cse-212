@@ -1,3 +1,13 @@
+"""
+CSE212 
+(c) BYU-Idaho
+01-Prove - Problem 1
+
+It is a violation of BYU-Idaho Honor Code to post or share this code with others or 
+to post it online.  Storage into a personal and private repository (e.g. private
+GitHub repository, unshared Google Drive folder) is acceptable.
+"""
+
 def multiples_of(number, length):
    """
     This function will produce a list of size 'length' starting
